@@ -4,5 +4,4 @@ whitelist:
   mysite:
     admin:
       - "13.54.196.117"
-    security:
-      - "13.54.196.117"
+
