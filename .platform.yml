@@ -2,6 +2,5 @@ php_settings:
   version: 7.4
 whitelist:
   mysite:
-    Security:
+    security:
       - "13.54.196.117"
-
