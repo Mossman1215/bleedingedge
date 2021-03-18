@@ -4,3 +4,10 @@ whitelist:
   mysite:
     security:
       - "13.54.196.117"
+    admin:
+      - "13.54.196.117"
+  cbss4:
+    security:
+      - "13.54.196.117"
+    admin:
+      - "13.54.196.117"
